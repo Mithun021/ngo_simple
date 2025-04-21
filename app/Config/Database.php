@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'u900985395_ngo2',
-        'password'     => 'Ngo2@8674',
-        'database'     => 'u900985395_ngo2',
+        'username'     => 'u186480587_nowyouthsocial',
+        'password'     => 'Nowyouthsocial@123',
+        'database'     => 'u186480587_nowyouthsocial',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
